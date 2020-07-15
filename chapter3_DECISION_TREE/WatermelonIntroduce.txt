@@ -1,0 +1,42 @@
+色泽 根蒂 敲声 纹理 脐部 触感 好瓜
+色泽:    浅白 0 |青绿 1 |乌黑 2
+根蒂:    蜷缩 0 |稍蜷 1 |硬挺 2
+敲声:    沉闷 0 |浊响 1 |清脆 2
+纹理:    模糊 0 |稍糊 1 |清晰 2
+脐部:    凹陷 0 |稍凹 1 |平坦 2
+触感:    硬滑 0 |软粘 1
+
+# C:\Users\hxt2016\AppData\Local\Programs\Python\Python36\python.exe "D:/about self-learing/AI-learning_2019/Machine Learning in Action/chapter3_DECISION_TREE/DecisionTreeForWatermelon.py"
+# 4.2765362280351753e-07 0.0018560167229672662 构建决策树时间 0.0018555890693444626
+# 纹理	<__main__.Node object at 0x000002C8C69DF390>	<__main__.Node object at 0x000002C8C69DF3C8>	<__main__.Node object at 0x000002C8C69DF470>
+# False
+# 触感	<__main__.Node object at 0x000002C8C69DF400>	<__main__.Node object at 0x000002C8C69DF4A8>
+# False
+# True
+# 触感	<__main__.Node object at 0x000002C8C6B29470>	<__main__.Node object at 0x000002C8C6B294A8>
+# True
+# 色泽	<__main__.Node object at 0x000002C8C6B29518>	<__main__.Node object at 0x000002C8C6B29550>	<__main__.Node object at 0x000002C8C6B29588>
+# False
+# True
+# False
+
+# curlabel: 1 targetlabel: 1
+# curlabel: 1 targetlabel: 1
+# curlabel: 1 targetlabel: 1
+# curlabel: 1 targetlabel: 1
+# curlabel: 1 targetlabel: 1
+# curlabel: 1 targetlabel: 1
+# curlabel: 1 targetlabel: 1
+# curlabel: 1 targetlabel: 1
+# curlabel: 0 targetlabel: 0
+# curlabel: 1 targetlabel: 0
+# curlabel: 0 targetlabel: 0
+# curlabel: 0 targetlabel: 0
+# curlabel: 0 targetlabel: 0
+# curlabel: 0 targetlabel: 0
+# curlabel: 0 targetlabel: 0
+# curlabel: 0 targetlabel: 0
+# curlabel: 0 targetlabel: 0
+# 0.9411764705882353
+#
+# Process finished with exit code 0
